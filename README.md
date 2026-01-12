@@ -24,7 +24,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,angular,c,django,docker,figma,git,github,graphql,html,js,css,sqlite,linux,maven,mysql,nextjs,nodejs,postgres,py,spring,react,rust,ts,vue&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,angular,c,c++,docker,figma,git,github,graphql,html,js,css,sqlite,linux,maven,mysql,nextjs,nodejs,postgres,py,spring,react,rust,ts,vue&perline=13)](https://skillicons.dev)
 
 
 <p align='center'>
